@@ -1275,6 +1275,11 @@
         "rpcs":[
             "https://molereum.jdubedition.com"
         ],
+    "Neatio Mainnet":{
+        "rpcs":[
+            "https://rpc.neatio.net"
+        ]
+    },
         "websiteDead":true
     }
 }
